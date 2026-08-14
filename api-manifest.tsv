@@ -1,0 +1,9 @@
+function	function_usr	current_source	native_function	native_function_usr
+p101_tool_run_capture	c:@F@p101_tool_run_capture	libraries/lib_subprocess/src/tool_run.c	-	-
+p101_tool_run_redirect	c:@F@p101_tool_run_redirect	libraries/lib_subprocess/src/tool_run.c	-	-
+p101_tool_argv_init	c:@F@p101_tool_argv_init	libraries/lib_subprocess/src/tool_run.c	-	-
+p101_tool_argv_append	c:@F@p101_tool_argv_append	libraries/lib_subprocess/src/tool_run.c	-	-
+p101_tool_argv_append_prefixed	c:@F@p101_tool_argv_append_prefixed	libraries/lib_subprocess/src/tool_run.c	-	-
+p101_tool_argv_destroy	c:@F@p101_tool_argv_destroy	libraries/lib_subprocess/src/tool_run.c	-	-
+p101_tool_read_pipe_open	c:@F@p101_tool_read_pipe_open	libraries/lib_subprocess/src/tool_run.c	-	-
+p101_tool_read_pipe_close	c:@F@p101_tool_read_pipe_close	libraries/lib_subprocess/src/tool_run.c	-	-

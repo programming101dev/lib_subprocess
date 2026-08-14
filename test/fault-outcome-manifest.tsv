@@ -1,0 +1,7 @@
+function	function_usr	domain	symbol_header	linux_faults	macos_faults	freebsd_faults	posix_faults	linux_conditional	macos_conditional	freebsd_conditional
+p101_tool_argv_append	c:@F@p101_tool_argv_append	errno	errno.h	EIO	EIO	EIO	EIO			
+p101_tool_argv_append_prefixed	c:@F@p101_tool_argv_append_prefixed	errno	errno.h	EIO	EIO	EIO	EIO			
+p101_tool_read_pipe_close	c:@F@p101_tool_read_pipe_close	errno	errno.h	EIO	EIO	EIO	EIO			
+p101_tool_read_pipe_open	c:@F@p101_tool_read_pipe_open	errno	errno.h	EIO	EIO	EIO	EIO			
+p101_tool_run_capture	c:@F@p101_tool_run_capture	errno	errno.h	EIO	EIO	EIO	EIO			
+p101_tool_run_redirect	c:@F@p101_tool_run_redirect	errno	errno.h	EIO	EIO	EIO	EIO			
